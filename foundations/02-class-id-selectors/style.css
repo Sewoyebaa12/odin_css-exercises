@@ -1,0 +1,22 @@
+.para {
+    background-color: pink;
+    color: black;
+    font-family: Verdana, DejaVu sans, sans-serif;
+    font-size: 20px;
+    width: 100%;
+    height: auto;
+}
+.third {
+    font-size: 24px;
+}
+
+#first-div {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-div {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
