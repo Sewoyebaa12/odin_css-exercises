@@ -1,0 +1,8 @@
+div > p {
+    background-color: yellow;
+    width: 100%;
+    height: auto;
+    color: red;
+    text-align: center;
+    font-size: 24px;
+}
